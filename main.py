@@ -1,5 +1,2 @@
-##:D
-
-##Prueba git
-
-##Cualquier cosita
+##Print
+print("Hola mundo")
